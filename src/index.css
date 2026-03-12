@@ -137,6 +137,8 @@ body {
 .ach-glow-red:hover    { box-shadow: 0 0 40px rgba(239,  68,  68, 0.45); border-color: rgba(239,  68,  68, 0.5) !important; }
 .ach-glow-purple:hover { box-shadow: 0 0 40px rgba(139,  92, 246, 0.45); border-color: rgba(139,  92, 246, 0.5) !important; }
 .ach-glow-cyan:hover   { box-shadow: 0 0 40px rgba(6,   182, 212, 0.45); border-color: rgba(6,   182, 212, 0.5) !important; }
+.ach-glow-orange:hover { box-shadow: 0 0 40px rgba(249, 115,  22, 0.45); border-color: rgba(249, 115,  22, 0.5) !important; }
+.ach-glow-rose:hover   { box-shadow: 0 0 40px rgba(244,  63,  94, 0.45); border-color: rgba(244,  63,  94, 0.5) !important; }
 
 /* ─── Card Hover Lift ───────────────────────────────────── */
 .card-lift {

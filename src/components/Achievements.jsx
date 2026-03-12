@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import { Trophy, Cpu, Bot, Globe, Zap, Plane } from 'lucide-react'
+import { Trophy, Cpu, Bot, Globe, Zap, Plane, Store, Award } from 'lucide-react'
 
 const achievements = [
   {
@@ -62,6 +62,26 @@ const achievements = [
     border: 'border-cyan-500/20',
     glowClass: 'ach-glow-cyan',
     gradient: 'from-cyan-500/20 to-transparent',
+  },
+  {
+    Icon: Store,
+    title: 'CT - Elevate : CommerceTools Summit',
+    desc: 'Participated in the CT - Elevate CommerceTools Summit, exploring innovations in modern commerce architecture and technology.',
+    color: 'text-orange-400',
+    bg: 'bg-orange-500/10',
+    border: 'border-orange-500/20',
+    glowClass: 'ach-glow-orange',
+    gradient: 'from-orange-500/20 to-transparent',
+  },
+  {
+    Icon: Award,
+    title: 'Great Manager Award — Top 300 in India',
+    desc: 'Recognized among the Top 300 Managers in India and shortlisted for the Great Manager Award in April 2025.',
+    color: 'text-rose-400',
+    bg: 'bg-rose-500/10',
+    border: 'border-rose-500/20',
+    glowClass: 'ach-glow-rose',
+    gradient: 'from-rose-500/20 to-transparent',
   },
 ]
 

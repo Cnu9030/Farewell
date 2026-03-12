@@ -4,7 +4,7 @@ import { Users, Lightbulb, Shield, TrendingUp } from 'lucide-react'
 
 const stats = [
   { value: '19.5', suffix: '+', label: 'Years of Experience' },
-  { value: '6',    suffix: '',  label: 'Major Awards & Milestones' },
+  { value: '8',    suffix: '',  label: 'Major Awards & Milestones' },
   { value: '100',  suffix: '+', label: 'Engineers Mentored' },
   { value: '50',   suffix: '+', label: 'Projects Architected' },
 ]
