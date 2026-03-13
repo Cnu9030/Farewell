@@ -66,7 +66,7 @@ const achievements = [
   {
     Icon: Store,
     title: 'CT - Elevate : CommerceTools Summit',
-    desc: 'Participated in the CT - Elevate CommerceTools Summit, exploring innovations in modern commerce architecture and technology.',
+    desc: 'He did it again in the CT - Elevate CommerceTools Summit, where it was shown how chatbots can integrate with commerce tools in the backend',
     color: 'text-orange-400',
     bg: 'bg-orange-500/10',
     border: 'border-orange-500/20',
