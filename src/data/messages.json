@@ -48,5 +48,25 @@
     "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
     "hoverBorder": "hover:border-cyan-500/50",
     "text": "Ranjith - Your technical expertise, professionalism, and dedication have been invaluable to the team. Thank you for your guidance, support, and the many contributions you've made during your time with us. It has been a pleasure working with you, and your presence will be greatly missed. Wishing you success in all your future endeavors"
-  }
+  },
+  {
+    "initials": "VV",
+    "name": "Velduti Vijay Sriram",
+    "role": "Systems Engineer",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": " Hi ranjith,Working under your leadership has been a truly memorable experience for me. Your guidance, patience, and constant support have helped me learn and grow both professionally and personally The lessons and values you shared with us will stay with me throughout my career.Thank you for everything you have done for the team and for always standing by us. Wishing you great success and happiness in your journey " 
+},
+{
+    "initials": "GT",
+    "name": "Gopi Tejaswini",
+    "role": "Senior Systems Engineer",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi Ranjith,Working with you for the past year has been a wonderful experience. I truly appreciate how calm, supportive, and positive you always were I have never seen anger in your words or actions and that made the team feel very comfortable. Thank you for the all the guidance and support. Wishing you continued success always. " 
+}
 ]
