@@ -26,7 +26,7 @@ const achievements = [
   {
     Icon: Bot,
     title: 'Botathon 2022',
-    desc: 'Led the team at Botathon 2022, showcasing breakthrough automation and AI solutions.',
+    desc: 'Led the teams participation in Botathon 2022, driving innovation with a relatively junior team - which gave team the courage to participate in hackathons',
     color: 'text-green-400',
     bg: 'bg-green-500/10',
     border: 'border-green-500/20',
