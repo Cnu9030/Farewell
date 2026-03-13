@@ -37,5 +37,16 @@
     "border": "border-cyan-500/25",
     "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
     "hoverBorder": "hover:border-cyan-500/50",
-    "text": "Hi Ranjith, Wishing you all the very best as you move from DX to your new role in Engineering! It's been great working with you, and your dedication and positive energy have always made a difference in the team and especially on AI space and CoPilot. Thank you for all your contributions-DX will definitely miss you. All the best, keep in touch and keep shining! 🙂"  }
+    "text": "Hi Ranjith, Wishing you all the very best as you move from DX to your new role in Engineering! It's been great working with you, and your dedication and positive energy have always made a difference in the team and especially on AI space and CoPilot. Thank you for all your contributions-DX will definitely miss you. All the best, keep in touch and keep shining! 🙂"
+  },
+  {
+    "initials": "DD",
+    "name": "Deepthi Duvvuru",
+    "role": "Senior project manager",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Ranjith - Your technical expertise, professionalism, and dedication have been invaluable to the team. Thank you for your guidance, support, and the many contributions you've made during your time with us. It has been a pleasure working with you, and your presence will be greatly missed. Wishing you success in all your future endeavors"
+  }
 ]
