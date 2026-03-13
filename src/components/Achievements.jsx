@@ -36,7 +36,7 @@ const achievements = [
   {
     Icon: Globe,
     title: 'Adobe Summit',
-    desc: 'Represented the company at Adobe Summit, engaging with global technology innovators.',
+    desc: 'Helped the team to build chatbots integrated with Adobe commerce to showcase how it can make customer journeys smoother which was presented on the global stage at Adobe Summit, engaging with industry leaders and showcasing digital excellence.',
     color: 'text-red-400',
     bg: 'bg-red-500/10',
     border: 'border-red-500/20',
