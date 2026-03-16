@@ -145,4 +145,80 @@ const Item = ({ m, index }) => {
         {/* Centre dot */}
         <div className="flex-shrink-0 z-10 relative">
           <motion.div
- 
+            initial={{ scale: 0, opacity: 0 }}
+            animate={inView ? { scale: 1, opacity: 1 } : {}}
+            transition={{ duration: 0.5, delay: 0.25 }}
+            className={`w-16 h-16 rounded-full ${m.bg} border-2 ${m.border} flex items-center justify-center`}
+            style={{ boxShadow: `0 0 28px ${m.glow}` }}
+          >
+            <m.Icon className={`w-7 h-7 ${m.color}`} />
+          </motion.div>
+        </div>
+
+        {/* Right slot */}
+        <div className="flex-1 pl-10">
+          {!isLeft ? (
+            <motion.div
+              initial={{ opacity: 0, x: 50 }}
+              animate={inView ? { opacity: 1, x: 0 } : {}}
+              transition={{ duration: 0.7, delay: 0.1 }}
+              whileHover={{ y: -5, boxShadow: `0 0 35px ${m.glow}` }}
+              className={`w-full max-w-sm glass rounded-2xl p-6 border ${m.border} card-lift cursor-default`}
+            >
+              <span className={`inline-block text-[10px] font-bold font-orbitron tracking-widest ${m.color} ${m.bg} px-2.5 py-1 rounded-full mb-3`}>
+                {m.tag}
+              </span>
+              <h3 className="text-white font-bold text-lg mb-2">{m.title}</h3>
+              <p className="text-gray-400 text-sm leading-relaxed">{m.desc}</p>
+            </motion.div>
+          ) : <div />}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+/* ── Main component ────────────────────────────────────── */
+const Timeline = () => {
+  const headRef = useRef(null)
+  const headInView = useInView(headRef, { once: true, margin: '-80px' })
+
+  return (
+    <section id="timeline" className="relative py-28 bg-[#030812]">
+      <div className="absolute left-0 top-0 w-[40vw] h-full bg-purple-900/5 filter blur-[100px] pointer-events-none" />
+
+      <div className="max-w-6xl mx-auto px-6 lg:px-12">
+
+        {/* Heading */}
+        <motion.div
+          ref={headRef}
+          initial={{ opacity: 0, y: 40 }}
+          animate={headInView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.8 }}
+          className="text-center mb-20"
+        >
+          <span className="font-orbitron text-purple-400 text-xs tracking-[0.25em] uppercase block mb-3">
+            Career Journey
+          </span>
+          <h2 className="font-orbitron text-3xl sm:text-4xl md:text-5xl font-bold mb-5">
+            <span className="text-white">Milestones of </span>
+            <span className="gradient-text">Excellence</span>
+          </h2>
+          <p className="text-gray-400 text-base sm:text-lg max-w-xl mx-auto">
+            A career defined by achievement, innovation, and global recognition.
+          </p>
+        </motion.div>
+
+        {/* Timeline wrapper — vertical line on desktop */}
+        <div className="relative">
+          <div className="absolute left-1/2 -translate-x-1/2 top-4 bottom-4 w-px timeline-line hidden md:block" />
+          {milestones.map((m, i) => (
+            <Item key={m.title} m={m} index={i} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
+
+export default Timeline
