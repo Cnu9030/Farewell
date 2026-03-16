@@ -1,0 +1,102 @@
+[
+  {
+    "initials": "JR",
+    "name": "Jayaraman R",
+    "role": "Project Manager",
+    "color": "bg-blue-500",
+    "border": "border-blue-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(59,130,246,0.25)]",
+    "hoverBorder": "hover:border-blue-500/50",
+    "text": "My Infosys journey starts with mentor with golden voice RANJITH. Don't have rules but have process. Providing support and pass on knowledge and experience with constructive feedback which helps to find our own answer. Thanks and all the best for the future endeavor"
+  },
+  {
+    "initials": "PN",
+    "name": "Prashanth Nair",
+    "role": "Lead Consultant",
+    "color": "bg-purple-500",
+    "border": "border-purple-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(139,92,246,0.25)]",
+    "hoverBorder": "hover:border-purple-500/50",
+    "text": "All the best for your next chapter, Ranjith! It's been great working with you. I really enjoyed the chats we used to have about projects and work. I'll also remember the lunch we had together and the party we had on your last day in Auckland. Wishing you lots of success and happiness ahead"
+  },
+  {
+    "initials": "SC",
+    "name": "Srivalli Chikkala",
+    "role": "Lead Consultant",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi K.Ranjith All the best.It has been great working with you.Thank you for all your support and collaboration throughout the project. Hope we get the chance to work together again!"
+  },
+  {
+    "initials": "AJ",
+    "name": "Alphonse Jose",
+    "role": "Digital Solution Specialist",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi Ranjith, Wishing you all the very best as you move from DX to your new role in Engineering! It's been great working with you, and your dedication and positive energy have always made a difference in the team and especially on AI space and CoPilot. Thank you for all your contributions-DX will definitely miss you. All the best, keep in touch and keep shining! 🙂"
+  },
+  {
+    "initials": "DD",
+    "name": "Deepthi Duvvuru",
+    "role": "Senior project manager",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Ranjith - Your technical expertise, professionalism, and dedication have been invaluable to the team. Thank you for your guidance, support, and the many contributions you've made during your time with us. It has been a pleasure working with you, and your presence will be greatly missed. Wishing you success in all your future endeavors"
+  },
+  {
+    "initials": "VV",
+    "name": "Velduti Vijay Sriram",
+    "role": "Systems Engineer",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": " Hi ranjith,Working under your leadership has been a truly memorable experience for me. Your guidance, patience, and constant support have helped me learn and grow both professionally and personally The lessons and values you shared with us will stay with me throughout my career.Thank you for everything you have done for the team and for always standing by us. Wishing you great success and happiness in your journey " 
+},
+{
+    "initials": "GT",
+    "name": "Gopi Tejaswini",
+    "role": "Senior Systems Engineer",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi Ranjith,Working with you for the past year has been a wonderful experience. I truly appreciate how calm, supportive, and positive you always were I have never seen anger in your words or actions and that made the team feel very comfortable. Thank you for the all the guidance and support. Wishing you continued success always. " 
+},
+{
+    "initials": "PV",
+    "name": "Pinaki Sen Varma",
+    "role": "Principal Consultant",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Thank YOU for all the oversight, guidance and support in helping us navigate the maze this is One NZ. your departure is leaving a big void in the team, that I'm not sure how we're going to fill. You were a big support in my initial days here, and I'm greatful for your help in settling down during those days. All the very best for the journey ahead. please keep in touch." 
+},
+{
+    "initials": "MP",
+    "name": "Madhav Pujari",
+    "role": "Senior Consultant",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi K.Ranjith, Its been pleasure working with you for OneNz. Meeting you in-person made me realize what it takes to be an Architect. Hope we will cross paths again. All the very best for your future endeavours." 
+},
+{
+    "initials": "DP",
+    "name": "Darshana and Priyanka",
+    "role": "Technology Analyst",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "We wanted to take a moment to share our heartfelt gratitude as you move on to your next chapter. Working with you especially during the chatbot POC was truly a turning point in our career. It was the first time I stepped into such work, and your guidance, patience, and trust made all the difference. You are the kind of leader who doesn't just direct work, but inspires learning. We learned not only technical skills but also how to approach challenges with confidence and clarity. Your support gave us the space to experiment, grow, and push my boundaries. Thank you for believing in us, for every discussion, every review and every encouragement along the way. You've had a lasting impact on our journey, and we will always appreciate the opportunity to work under your mentorship. Wishing you all the very best for your future endeavours. You will truly be missed!" 
+}
+]
