@@ -68,5 +68,35 @@
     "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
     "hoverBorder": "hover:border-cyan-500/50",
     "text": "Hi Ranjith,Working with you for the past year has been a wonderful experience. I truly appreciate how calm, supportive, and positive you always were I have never seen anger in your words or actions and that made the team feel very comfortable. Thank you for the all the guidance and support. Wishing you continued success always. " 
+},
+{
+    "initials": "PV",
+    "name": "Pinaki Sen Varma",
+    "role": "Principal Consultant",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Thank YOU for all the oversight, guidance and support in helping us navigate the maze this is One NZ. your departure is leaving a big void in the team, that I'm not sure how we're going to fill. You were a big support in my initial days here, and I'm greatful for your help in settling down during those days. All the very best for the journey ahead. please keep in touch." 
+},
+{
+    "initials": "MP",
+    "name": "Madhav Pujari",
+    "role": "Senior Consultant",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "Hi K.Ranjith, Its been pleasure working with you for OneNz. Meeting you in-person made me realize what it takes to be an Architect. Hope we will cross paths again. All the very best for your future endeavours." 
+},
+{
+    "initials": "DP",
+    "name": "Darshana and Priyanka",
+    "role": "Technology Analyst",
+    "color": "bg-cyan-500",
+    "border": "border-cyan-500/25",
+    "hoverGlow": "hover:shadow-[0_0_30px_rgba(6,182,212,0.25)]",
+    "hoverBorder": "hover:border-cyan-500/50",
+    "text": "We wanted to take a moment to share our heartfelt gratitude as you move on to your next chapter. Working with you especially during the chatbot POC was truly a turning point in our career. It was the first time I stepped into such work, and your guidance, patience, and trust made all the difference. You are the kind of leader who doesn't just direct work, but inspires learning. We learned not only technical skills but also how to approach challenges with confidence and clarity. Your support gave us the space to experiment, grow, and push my boundaries. Thank you for believing in us, for every discussion, every review and every encouragement along the way. You've had a lasting impact on our journey, and we will always appreciate the opportunity to work under your mentorship. Wishing you all the very best for your future endeavours. You will truly be missed!" 
 }
 ]
